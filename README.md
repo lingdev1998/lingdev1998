@@ -16,7 +16,7 @@ const lingdev1998 = {
         },
         backEnd: {
             js: ["node", "Express", "NestJS", "Loopback","NextJS"],
-            java: Spring, Struts
+            java: ["Spring", "Struts"]
         },
         devOps: ["Linux", "AWS", "Docker🐳",  "Nginx",  "CI/CD"],
         databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL" ],
