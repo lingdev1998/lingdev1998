@@ -20,7 +20,7 @@ const lingdev1998 = {
         },
         devOps: ["Linux", "AWS", "Docker🐳",  "Nginx",  "CI/CD"],
         databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL" ],
-        misc: ["Firebase", "Socket.IO", "GraphqQL", "Prisma"]
+        misc: ["Firebase", "Socket.IO", "GraphqQL", "Prisma","Hibernate ORM"]
     },
 };
 ```
